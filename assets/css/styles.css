@@ -131,7 +131,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #next_start:before {
-    content: "Ab: ";
+    content: "Ab ";
 }
 
 #show_start:after, #next_start:after {
